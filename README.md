@@ -76,7 +76,7 @@ openlr-qgis-plugin/
 ├── OpenLRDecoder.py # Main plugin logic
 ├── OpenLRDecoder_dialog.py # Dialog controller
 ├── OpenLRDecoder_dialog_base.ui # UI definition
-├── __init__.py # QGIS plugin entry point
+├── init.py # QGIS plugin entry point
 ├── metadata.txt # Plugin metadata
 └── README.md # This file
 
