@@ -70,19 +70,6 @@ Your road network must include the following tables:
 
 ---
 
-## 📦 File Structure
-
-openlr-qgis-plugin/
-├── OpenLRDecoder.py # Main plugin logic
-├── OpenLRDecoder_dialog.py # Dialog controller
-├── OpenLRDecoder_dialog_base.ui # UI definition
-├── init.py # QGIS plugin entry point
-├── metadata.txt # Plugin metadata
-└── README.md # This file
-
-
----
-
 ## 📝 Notes
 
 - This plugin is derived from a Python CLI-based decoder implementation.
