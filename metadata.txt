@@ -1,0 +1,7 @@
+[general]
+name=OpenLR Decoder
+qgisMinimumVersion=3.0
+description=Decodes OpenLR locations
+version=1.0
+author=OpenLR Tools Project
+email=openlr-tools@example.com
